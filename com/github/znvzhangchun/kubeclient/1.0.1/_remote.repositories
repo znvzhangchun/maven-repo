@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Aug 27 18:36:32 CST 2017
+kubeclient-1.0.1.jar>=
+kubeclient-1.0.1.pom>=
